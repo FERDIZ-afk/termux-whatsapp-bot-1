@@ -16,8 +16,7 @@ const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar'
 const BotName = 'Nama bot'; 
 const instagram = 'Instagram kamu'; 
-const aktif = 'Kapan bot aktif'
-const kapanbotaktif = '24 JAM';
+const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Nama kamu\n' // Nama kamu
