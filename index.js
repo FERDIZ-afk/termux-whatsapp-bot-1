@@ -9,7 +9,7 @@ const fetch = require('node-fetch');
 const urlencode = require("urlencode");
 const axios = require("axios");
 const speed = require('performance-now');
-const menu = require("./lib/menu.js)
+const menu = require("./lib/menu.js")
 
 //Setting
 
