@@ -15,10 +15,11 @@
     <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
 
 # Hai 👋🏻
+
+# Re-upload numpang ganti nama gabakal bikin lu pro
 </div>
 
-
-
+## Give me Start ⭐ pleas
 
 ## Alat
 
@@ -90,6 +91,11 @@ Terakhir scan kode QR
 | Seberapa bucin|✅|
 | Chat prank|✅|
 | Font alay|✅|
+| Family 100|✅|
+| Kata kata receh|✅|
+| Status bapack|✅|
+| Gombal|✅|
+
 
 | PRIMBON |Yes|
 | ------------- | ------------- |
@@ -102,6 +108,8 @@ Terakhir scan kode QR
 | ------------- | ------------- |
 | Tebak gambar|✅|
 | Family 100|✅|
+| Truth or dare|✅|
+
 
 | DOWNLOAD |Yes|
 | ------------- | ------------- |
@@ -141,6 +149,7 @@ Terakhir scan kode QR
 | EDUKASI |Yes|
 | ------------- | ------------- |
 | Al-Qur'an|✅|
+| Al-Qur'an per surah|✅|
 | Brainly|✅|
 | Wikipedia|✅|
 | Fakta|✅|
