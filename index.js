@@ -69,7 +69,7 @@ conn.on('credentials-updated', () =>
    const authInfo = conn.base64EncodedAuthInfo() // get all the auth info we need to restore this session
    fs.writeFileSync('./session.json', JSON.stringify(authInfo, null, '\t')) // save this info to a file
 })
-fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
+fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json') //create arel bot
 // uncomment the following line to proxy the connection; some random proxy I got off of: https://proxyscrape.com/free-proxy-list
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
@@ -1331,5 +1331,6 @@ Silakan pilih :
 }
 
 //Hay gay
-
+//create @mrf.zvx don't delate this please
+	
 })
