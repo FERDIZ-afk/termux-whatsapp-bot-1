@@ -19,7 +19,7 @@
 # Re-upload numpang ganti nama gabakal bikin lu pro
 </div>
 
-## Give me Start ⭐ pleas
+## Give me Start ⭐ please
 
 ## Alat
 
