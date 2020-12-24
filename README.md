@@ -3,10 +3,10 @@
 <a href="#"><img title="Arelbot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center">
 <a href="https://github.com/mrfzvx12/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfzvx12/Arelbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/Arelbot?color=red&style=flat-square"></a>
-<a href="https://github.com/mrfzvx12/Arelbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfzvx12/Arelbot?color=red&style=flat-square"></a>
-<a href="https://github.com/mrfzvx12/Arelbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfzvx12/Arelbot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrfzvx12%2FArelbot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/mrfzvx12/termux-whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfzvx12/termux-whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/mrfzvx12/termux-whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfzvx12/termux-whatsapp-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/mrfzvx12/termux-whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfzvx12/termux-whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrfzvx12%2Ftermux-whatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"></a>
 </p>
 
