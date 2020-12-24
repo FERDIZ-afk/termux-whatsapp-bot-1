@@ -16,7 +16,7 @@
 
 # Hai 👋🏻
 
-# Re-upload numpang ganti nama gabakal bikin lu pro
+Re-upload numpang ganti nama gabakal bikin lu pro
 </div>
 
 * "Wahai orang-orang yang beriman, mengapakah kamu mengatakan sesuatu yang tidak kamu kerjakan?
