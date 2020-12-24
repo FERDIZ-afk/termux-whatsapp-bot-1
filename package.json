@@ -37,9 +37,13 @@
     "url": "git+https://github.com/mrfzvx12/Arelbot"
   },
   "keywords": [
-    "k"
+    "Termux-whatsapp-bot"
+    "whatsApp-bot"
+    "brainly"
+    "Simsimi chat"
+    "Termux"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "mrf.zvx",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mrfzvx12/Arelbot/issues"
