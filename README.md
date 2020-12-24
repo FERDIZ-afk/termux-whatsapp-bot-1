@@ -56,8 +56,8 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 ```
 Lalu clone repo
 ```bash
-> git clone https://github.com/mrfzvx12/Arelbot
-> cd Arelbot
+> git clone https://github.com/mrfzvx12/termux-whatsapp-bot
+> cd termux-whatsapp-bot
 ```
 Lanjutkan dengan
 ```bash
